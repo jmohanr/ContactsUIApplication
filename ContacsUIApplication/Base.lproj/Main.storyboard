@@ -202,7 +202,7 @@
                                     <constraint firstAttribute="width" constant="50" id="htT-cF-CYC"/>
                                 </constraints>
                                 <state key="normal" title="+91  ">
-                                    <color key="titleColor" red="0.66666666669999997" green="0.66666666669999997" blue="0.66666666669999997" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="buttonforCountryCodesWithSender:" destination="ldw-j7-LJb" eventType="touchUpInside" id="M42-fm-P3h"/>
@@ -233,7 +233,7 @@
                                     <action selector="countryNameBtnActionWithSender:" destination="ldw-j7-LJb" eventType="touchUpInside" id="tTt-DQ-aff"/>
                                 </connections>
                             </button>
-                            <textField opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="India" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="vFf-JE-VYs">
+                            <textField opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Country" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="vFf-JE-VYs">
                                 <rect key="frame" x="20" y="394" width="275" height="50"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="50" id="uuI-j1-dW5"/>
